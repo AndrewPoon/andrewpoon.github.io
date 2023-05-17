@@ -1,7 +1,6 @@
 import {Link} from 'react-router-dom'
 import { useState } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
-import Logo from './Logo';
 import './index.scss';
 import { useEffect } from 'react';
 import Loader from 'react-loaders';
@@ -33,7 +32,6 @@ const Home =()=>{
                 <Link to='/contact' className='flat-button'> CONTACT ME
                 </Link>
             </div>
-            <Logo />
         </div>
         <Loader type='pacman'/>
         </>
