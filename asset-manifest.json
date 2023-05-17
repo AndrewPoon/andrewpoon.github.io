@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.1275a46c.css",
-    "main.js": "/my-app/static/js/main.55c9e9c8.js",
+    "main.js": "/my-app/static/js/main.cc71ffc2.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/Resume.pdf": "/my-app/static/media/Resume.cb668e1b5a784d17a768.pdf",
     "static/media/Logo1.png": "/my-app/static/media/Logo1.5f4f92870e4d516ce7be.png",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/my-app/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/my-app/index.html",
     "main.1275a46c.css.map": "/my-app/static/css/main.1275a46c.css.map",
-    "main.55c9e9c8.js.map": "/my-app/static/js/main.55c9e9c8.js.map",
+    "main.cc71ffc2.js.map": "/my-app/static/js/main.cc71ffc2.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1275a46c.css",
-    "static/js/main.55c9e9c8.js"
+    "static/js/main.cc71ffc2.js"
   ]
 }
