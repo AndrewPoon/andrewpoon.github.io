@@ -23,23 +23,24 @@ const About =()=>{
                     idx={15}
                     />
                 </h1>
+
                 <p>
-                    I am Andrew, I recently graduated from Western University's Software engineering program
-                </p>
-                <p>
-                    I played a lot of video games when I was a kid which drives me to learn more about on how they work.
-                    After discovering many tools and framework within software development, I aim to learn more about
-                    software starting from the planning stage all the way to the finishing stage
+                I am Andrew, a recent graduate of Western University's Software Engineering program. 
+                My childhood passion for video games sparked my curiosity to learn more about how they work. 
+                Through exploring various tools and frameworks in software development, 
+                I have developed a strong interest in the entire software development process, 
+                from planning to completion.
 
                 </p>
                 <p>
-                    During my education, I learned how to make web applications with different stacks(MERN/MEAN), GUI based applications
-                    network-related application(P2P), TLS information security, machine learning application, OpenGL graphics and 
-                    writing test cases.
+                During my education, I gained proficiency in creating web applications using different stacks (MERN/MEAN)
+                , developing GUI-based applications, working on network-related applications (P2P), ensuring TLS information security,
+                 implementing machine learning applications, utilizing OpenGL graphics, and writing test cases.
                 </p>
                 <p>
-                    Beside my interest in software, I also enjoyed walking in the nature, weightlifting, skateboarding, chess, trying
-                    differnt cuisines and board games.
+                In addition to my software-related interests, 
+                I also enjoy outdoor activities such as walking in nature, weightlifting, skateboarding, and playing chess.
+                 I am also an enthusiast of exploring different cuisines and engaging in board games.
                 </p>
             </div>
             <div className='stage-cube-cont'>

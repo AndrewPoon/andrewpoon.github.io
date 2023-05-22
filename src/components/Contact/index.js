@@ -33,9 +33,7 @@ const Contact=()=>{
                         idx={15}/>
                     </h1>
                     <p>
-                        Please feel free to contact me about employment opprtunities!
-                        However, if you have requests or questions, Contact me using the
-                        form below.
+                    I welcome any inquiries regarding employment opportunities. If you have any requests or questions, please use the form below to contact me.
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>
